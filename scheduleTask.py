@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 '''scheduleTask.py: Schedules tasks using schedule lib & time'''
 
-__author__ = 'ISAIAH COLEMAN'
-__credits__ = ['Isaiah Coleman']
-__status__ = 'Prototype'
-
 #imports
 import schedule
 import time
