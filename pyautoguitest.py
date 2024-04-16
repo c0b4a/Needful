@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 'Test page for pyautogui'
 'Multiple Monitor fix: https://github.com/asweigart/pyautogui/issues/321'
-'My Modified Copy: https://github.com/c0b4a/pyautogui-pyscreenz-fix'
 
 import pyautogui
 
