@@ -2,10 +2,6 @@
 '''dataToSheet.py: formatted data pushed to remote sheet'''
 '''WARNING: THIS USES AN OPEN SOURCE LIBRARY VULNERABLE TO BILLION LAUGHS'''
 
-__author__ = 'ISAIAH COLEMAN'
-__credits__ = ['Isaiah Coleman']
-__status__ = 'Prototype'
-
 #imports
 from datetime import datetime
 from openpyxl.styles import Font
