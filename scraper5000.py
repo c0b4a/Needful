@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-'''scraper5000.py: Grabs CGIRK data from JIRA '''
+'''scraper5000.py: connects to page and prints text'''
 
 #imports
 import requests
