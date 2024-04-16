@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 '''populateData.py: Rndint -> xls'''
 
-__author__ = 'ISAIAH COLEMAN'
-__credits__ = ['Isaiah Coleman']
-__status__ = 'Prototype'
-
 #imports
 import random
 
