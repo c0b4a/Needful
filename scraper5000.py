@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 '''scraper5000.py: Grabs CGIRK data from JIRA '''
 
-__author__ = 'ISAIAH COLEMAN'
-__credits__ = ['Isaiah Coleman']
-__status__ = 'Prototype'
-
 #imports
 import requests
 
